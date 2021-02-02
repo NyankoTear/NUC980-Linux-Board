@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Package_U-PDFN)(type KiCad)(uri "${KIPRJMOD}/Private Library/footprints/Package_U-PDFN.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nuvoTon)(type Legacy)(uri "${KIPRJMOD}/Private Library/symbols/nuvoTon.lib")(options "")(descr ""))
+  (lib (name Micron)(type Legacy)(uri "${KIPRJMOD}/Private Library/symbols/Micron.lib")(options "")(descr ""))
+)
